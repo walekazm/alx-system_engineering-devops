@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 rm 'betty' /tmp/my_first_directory/   
+=======
+rm 'betty' /tmp/my_first_directory/ 
+>>>>>>> c33746b7c094f218fbc38a2e0426a6a92a39af61
